@@ -1,0 +1,19 @@
+{
+  "name": "template",
+  "data": "Test",
+  "__test_transform_to": "html",
+  "__test_expected_result": [
+    {
+      "data": "<a>",
+      "name": "raw"
+    },
+    {
+      "data": "Test",
+      "name": "raw"
+    },
+    {
+      "data": "</a>",
+      "name": "raw"
+    }
+  ]
+}
